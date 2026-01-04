@@ -1,8 +1,11 @@
 Papiya Das 👋
+
 Computational Biologist | Multi-Omics Data Analyst | Neurodegenerative Disease Research
+
 📍 Leeds, UK | 🔗 https://www.linkedin.com/in/p--d/| 📧 papiya2810das@gmail.com
 
 About Me
+
 I'm a computational biologist with expertise in multi-omics data analysis, focusing on neurodegenerative diseases. I integrate bioinformatics, machine learning, and wet-lab validation to uncover disease mechanisms and therapeutic targets.
 
 Research Focus:
