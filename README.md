@@ -4,9 +4,11 @@ Computational Biologist | Multi-Omics Data Analyst | Neurodegenerative Disease R
 
 📍 Leeds, UK | 🔗 https://www.linkedin.com/in/p--d/| 📧 papiya2810das@gmail.com
 
+
 About Me
 
 I'm a computational biologist with expertise in multi-omics data analysis, focusing on neurodegenerative diseases. I integrate bioinformatics, machine learning, and wet-lab validation to uncover disease mechanisms and therapeutic targets.
+
 
 Research Focus:
 
@@ -17,6 +19,7 @@ Multi-omics integration (genomics, transcriptomics, proteomics)
 Structural bioinformatics and molecular dynamics simulations
 
 Translational cancer genomics
+
 
 
 🔬 Featured Projects
@@ -37,6 +40,7 @@ Multi-Omics-Pipeline: End-to-end bioinformatics pipeline for processing NGS data
 
 Tech: Python, R, Bash, AWS
 
+
 🛠️ Technical Skills
 
 Programming: Python (Pandas, NumPy, Biopython), R (Bioconductor), SQL, Bash
@@ -48,6 +52,7 @@ Multi-Omics: Genomics, transcriptomics, proteomics, ATAC-seq
 Data Tools: Tableau, Excel, Google BigQuery
 
 Cloud: AWS (certified)
+
 
 📚 Publications
 
