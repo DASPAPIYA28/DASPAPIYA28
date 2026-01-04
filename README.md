@@ -22,15 +22,19 @@ Translational cancer genomics
 🔬 Featured Projects
 
 PNMT-SNP-Analysis: Identified 3 high-risk deleterious SNPs in PNMT gene associated with Parkinson's disease through systematic analysis of 286 variants. Published in Taylor & Francis.
+
 Tech: Python, GROMACS, PROVEAN, PolyPhen-2, PredictSNP, DynaMut, CUPSAT
 
 Protein-Interaction-NMR: Investigated protein-protein interactions using 950 MHz NMR spectroscopy integrated with AlphaFold structural predictions.
+
 Tech: Python, AlphaFold, PyMOL, NMR data analysis
 
 Fusion Protein Engineering: Cry1Da–Cry1B.867 fusion protein targeting Spodoptera frugiperda resistance 
+
 Tech: Python, AlphaFold, PyMOL, data analysis
 
 Multi-Omics-Pipeline: End-to-end bioinformatics pipeline for processing NGS data and integrating multi-modal omics datasets.
+
 Tech: Python, R, Bash, AWS
 
 🛠️ Technical Skills
